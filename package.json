@@ -1,0 +1,10 @@
+{
+  "name": "tests",
+  "version": "0.0.1",
+  "description": "Holiday Shopping Hackathon",
+  "author": "Anna Afanaseva",
+  "devDependencies": {
+    "@applitools/eyes-cypress": "^3.15.5",
+    "cypress": "^5.6.0"
+  }
+}

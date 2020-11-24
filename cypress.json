@@ -1,0 +1,7 @@
+{
+  "watchForFileChanges": false,
+  "baseUrl": "https://demo.applitools.com",
+  "integrationFolder": "cypress/visual",
+  "viewportWidth": 1200,
+  "viewportHeight": 800
+}
