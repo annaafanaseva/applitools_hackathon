@@ -1,4 +1,4 @@
 #### Holiday Shopping Hackathon
 + to install dependencies run 'npm install'
-+ find tests under cypress/visual/part1-3 folders
++ to execute tests run 'npx cypress open' and run tests from 'cypress/visual' folder
 
